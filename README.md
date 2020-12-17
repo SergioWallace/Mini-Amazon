@@ -1,7 +1,7 @@
 # mini-amazon-cs316
 
 **MINI-AMAZON**
-Visit at http://better-amazon.colab.duke.edu:5000/
+Visit at http://better-amazon.colab.duke.edu:5000/ (Not currently running)
 
 **How to run (Paul's method, assuming Mac):**
 
